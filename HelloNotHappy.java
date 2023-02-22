@@ -17,6 +17,7 @@ public class HelloNotHappy {
 		System.out.print ("             ");
 		System.out.println("is");
 		System.out.println ("               " + "BAD");
+		System.out.println ("DONE");
 	}
 
 }
