@@ -1,8 +1,9 @@
 package less2;
+import java.util.Scanner;
 
 public class HomeWorkless2 {
     public static void main(String[] args) {
-    char q, w, e, r, t, y, u, i, o, p, a, s, d, f, g, h, j, k, l, z, x;
+    char q, w, e, r, t, y, u, i, o, p, a, s, d, f, g, h, j, k, l, z, x, c, v, b, n, m, x1, g1;
     q = '\u0047';
     w = '\u006F';
     e = '\u006F';
@@ -24,6 +25,21 @@ public class HomeWorkless2 {
     l = '\u002C';
     z = '\u0020';
     x = '\u002E';
+    c = 'N';
+    v = 'a';
+    b = 'z';
+    n = 'a';
+    m = 'r';
+    x1 = '\u002E';
+    g1 = '\u0020';
+
+        System.out.print(c);
+        System.out.print(v);
+        System.out.print(b);
+        System.out.print(n);
+        System.out.print(m);
+        System.out.print(x1);
+        System.out.print(g1);
         System.out.print(q);
         System.out.print(w);
         System.out.print(e);
@@ -45,6 +61,7 @@ public class HomeWorkless2 {
         System.out.print(h);
         System.out.print(j);
         System.out.print(k);
-        System.out.print(x);}
+        System.out.println(x);
+        System.out.print("" + c+v+b+n+m + "");}
 
 }
